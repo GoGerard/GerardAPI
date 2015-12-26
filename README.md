@@ -5,6 +5,7 @@ A modern bot for Discord - The Web API.
 [![Go Report](http://goreportcard.com/badge/GoGerard/GerardAPI)](http://goreportcard.com/report/GoGerard/GerardAPI)
 [![Issues](https://img.shields.io/github/issues/GoGerard/GerardAPI.svg)](https://github.com/GoGerard/GerardAPI/issues)
 [![Coverage Status](https://coveralls.io/repos/GoGerard/GerardAPI/badge.svg?branch=master&service=github)](https://coveralls.io/github/GoGerard/GerardAPI?branch=master)
+
 ----------
 
 ## GoGerard
